@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @butterflysly53
+- :book: I am a cs undergrad student.
 - 👀 I’m interested in web developing ,machine learning and competitive programming
 - 🌱 I’m currently learning PHP
 
