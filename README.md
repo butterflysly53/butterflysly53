@@ -6,10 +6,7 @@
 
  - :computer:I am passionate about exploring state-of-the art technologies.
   
-   <!---
-   [![trophy](https://github-profile-trophy.vercel.app/?username=butterflysly53&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-  -->
+  
   <h3 align="center">Github stats :bar_chart:</h3>
  
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=butterflysly53&hide=contribs,stars&count_private=true&show_icons=true&theme=radical)
@@ -24,4 +21,7 @@
 </a>
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{butterflysly53}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<!---
+   [![trophy](https://github-profile-trophy.vercel.app/?username=butterflysly53&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+  -->
