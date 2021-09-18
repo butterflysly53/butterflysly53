@@ -1,5 +1,5 @@
  # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
- :relaxed: I’m @butterflysly53
+   I’m @butterflysly53
  - :book: I am a cs undergrad student.
  - 👀 I’m interested in web developing ,machine learning and competitive programming
  - 🌱 I’m currently learning PHP
