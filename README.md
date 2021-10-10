@@ -4,7 +4,7 @@
  - 👀 I’m interested in web developing and machine learning
  - 🌱 I’m currently learning PHP and Python
 
- - :computer:I am in early-developer phase and I am passionate about exploring state-of-the art technologies.
+ - :computer: I am passionate about exploring state-of-the art technologies.
 
    
   <!--<h3 align="center">Github stats :bar_chart:</h3>
