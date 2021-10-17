@@ -7,13 +7,11 @@
  - :computer: I am passionate about exploring state-of-the art technologies.
 
    
-  <!--<h3 align="center">Github stats :bar_chart:</h3>
+<h3 align="center">Github stats :bar_chart:</h3>
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=butterflysly53&hide=contribs,stars&count_private=true&show_icons=true&theme=radical)
-](https://github.com/anuraghazra/github-readme-stats)
--->  
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=butterflysly53&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+](https://github.com/anuraghazra/github-readme-stats)  &nbsp;   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=butterflysly53&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
 <!--
 <h4 align="center">Visitor's count :eyes:</h4>
