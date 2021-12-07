@@ -1,4 +1,5 @@
  # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ <!--
    I’m @butterflysly53
  - :book: I am a cs undergrad student.
  - 👀 I’m interested in web developing and machine learning
@@ -26,7 +27,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=butterflysly53&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 -->
-
+<!--
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=butterflysly53)  
 
 
@@ -35,4 +36,5 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=butterflysly53)
 
  </div>
+ -->
 
