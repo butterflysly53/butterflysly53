@@ -1,6 +1,6 @@
  # Hello World! <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 
-   I’m @butterflysly53
+   I’m Shreya
  - :book: I am a cs undergrad student.
  - 👀 I’m interested in web developing and machine learning
  - 🌱 I’m currently learning PHP and Python
