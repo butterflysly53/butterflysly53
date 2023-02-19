@@ -24,10 +24,11 @@
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{butterflysly53}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
+<div align="center"> 
+ 
 [![trophy](https://github-profile-trophy.vercel.app/?username=butterflysly53&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=butterflysly53)  
+</div>
 
 
 <div align="center"> 
