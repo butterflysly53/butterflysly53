@@ -3,7 +3,7 @@
    I’m Shreya
  - :book: I am a cs undergrad student.
  - 👀 I’m interested in web developing and machine learning
- - 🌱 I’m currently learning PHP and Python
+ - 🌱 I’m currently learning Java and SpringBoot
 
  - :computer: I am passionate about exploring state-of-the art technologies.
 
@@ -22,7 +22,6 @@
 -->
 
 <h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{butterflysly53}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
 <div align="center"> 
  
@@ -31,10 +30,5 @@
 </div>
 
 
-<div align="center"> 
- 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=butterflysly53)
-
- </div>
 
 
