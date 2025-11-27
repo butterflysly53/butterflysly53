@@ -1,11 +1,11 @@
  # Hello World! <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 
    I’m Shreya
- - :book: I am a cs undergrad student.
- - 👀 I’m interested in web developing and machine learning
+ - :book: I am currently working at TCS.
+ - 👀 I’m interested in web development and machine learning
  - 🌱 I’m currently learning Java and SpringBoot
 
- - :computer: I am passionate about exploring state-of-the art technologies.
+ - :computer: I am passionate about exploring state-of-the-art technologies.
 
    
 <h3 align="center">Github stats :bar_chart:</h3>
